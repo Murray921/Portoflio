@@ -1,0 +1,36 @@
+/* Header */
+h1{
+    font-style:italic;
+    text-align: center;
+    text-decoration:underline;
+
+}
+
+p{
+    font-size: large;
+    font-style:italic
+}
+
+/* Unvisited Link*/
+
+a:link {
+    color: #000;
+}
+
+/* Hover Link */
+a:hover {
+    color: rgb(139, 67, 0);
+}
+
+/* Visited Link */
+a:visited {
+    color: #1100ff;
+}
+
+
+
+/* Footer */
+footer {
+    text-align: center;
+    text-decoration: underline;
+}
