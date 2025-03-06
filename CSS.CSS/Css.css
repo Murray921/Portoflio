@@ -1,5 +1,6 @@
 /* Header */
 h1{
+    background-color: #0ccf05;
     font-style:italic;
     text-align: center;
     text-decoration:underline;
@@ -7,6 +8,7 @@ h1{
 }
 
 p{
+    font-weight: 300;
     font-size: large;
     font-style:italic
 }
@@ -14,7 +16,8 @@ p{
 /* Unvisited Link*/
 
 a:link {
-    color: #000;
+    background-color: #0ccf05;
+    color: #070707;
 }
 
 /* Hover Link */
@@ -24,15 +27,20 @@ a:hover {
 
 /* Visited Link */
 a:visited {
-    color: #1100ff;
+    color: #020202;
 }
 
 
 
 /* Footer */
 footer {
+    background-color: #0ccf05;
     text-align: center;
     text-decoration: underline;
 }
 
+
+h2 {
+    color:#0ccf05
+}
 
