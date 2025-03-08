@@ -1,11 +1,15 @@
 /* Header */
 h1{
     background-color: #0ccf05;
+    height: 100px;
     font-style:italic;
     text-align: center;
     text-decoration:underline;
 
 }
+
+
+
 
 p{
     font-weight: 300;
@@ -16,7 +20,7 @@ p{
 /* Unvisited Link*/
 
 a:link {
-    background-color: #0ccf05;
+    height: 100px;
     color: #070707;
 }
 
